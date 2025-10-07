@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "Id": "a3f1c9b2-7e44-4d9b-9f1a-2b6c8d0e4f11",
+      "cover": "A panoramic look at slow travel",
+      "title": "How to Travel Slowly and See More",
+      "author": "Maya R. Bennett",
+      "Img": "https://picsum.photos/seed/travel1/1200/800",
+      "posted": true,
+      "date": "2025-09-12",
+      "reading_time": "7 min read",
+      "hashtags": ["#travel", "#slowtravel", "#guide"]
+    },
+    {
+      "Id": "f57d2ea4-3b6e-4a9f-aa2d-9a0b4c1d5e22",
+      "cover": "Practical micro-habits for busy people",
+      "title": "Two Minutes a Day: Tiny Habits, Big Results",
+      "author": "Jordan K. Lee",
+      "Img": "https://picsum.photos/seed/habits2/1200/800",
+      "posted": false,
+      "date": "2025-10-01",
+      "reading_time": "4 min read",
+      "hashtags": ["#habits", "#productivity", "#wellbeing"]
+    },
+    {
+      "Id": "9b2e6c1f-1d8a-45b0-b7f3-6c4d2a8f3c33",
+      "cover": "An illustrated primer on urban gardening",
+      "title": "Window Boxes to Rooftop Farms: Urban Gardening 101",
+      "author": "Elena Suarez",
+      "Img": "https://picsum.photos/seed/garden3/1200/800",
+      "posted": true,
+      "date": "2025-08-18",
+      "reading_time": "9 min read",
+      "hashtags": ["#gardening", "#urbanfarming", "#diy"]
+    },
+    {
+      "Id": "2c8f7a90-5b3d-4f6a-8c2e-0d1a9b7e4f44",
+      "cover": "A deep dive into tiny ML models",
+      "title": "Tiny Models, Big Impact: ML for Edge Devices",
+      "author": "Priyanka Desai",
+      "Img": "https://picsum.photos/seed/ml4/1200/800",
+      "posted": true,
+      "date": "2025-07-05",
+      "reading_time": "11 min read",
+      "hashtags": ["#machinelearning", "#edgeai", "#tech"]
+    },
+    {
+      "Id": "d4e6b3f0-8c1a-4b2f-9e5a-7f0d3c2b6a55",
+      "cover": "Comfort food with a modern twist",
+      "title": "Seven Weeknight Dinners You’ll Make Forever",
+      "author": "Omar N. Khalid",
+      "Img": "https://picsum.photos/seed/food5/1200/800",
+      "posted": false,
+      "date": "2025-10-06",
+      "reading_time": "6 min read",
+      "hashtags": ["#food", "#weeknightmeals", "#recipes"]
+    }
+  ]
+}

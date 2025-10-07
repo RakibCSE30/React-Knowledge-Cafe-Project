@@ -1,13 +1,12 @@
-
- 
 import './App.css'
+import Header from './Component/Header/Header'
 
 function App() {
   
 
   return (
-    <>
-       <p className='text-2xl bg-green-500' >Knowledge cage</p>
+    <> 
+    <Header></Header>
     </>
   )
 }
