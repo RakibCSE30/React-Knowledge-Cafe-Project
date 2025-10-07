@@ -2,17 +2,20 @@
 
 const Blog = ({ blog }) => {
     console.log(blog);
+    const {id,cover,title}=blog;
     
   return (
     <div>
-     
+     <p>{id}</p>
+     <img src={cover} alt="" />
+     <p>{title}</p>
     </div>
   );
 };
 
-// ✅ Correct: it's "propTypes", not "protoType"
+ 
 Blog.propTypes = {
-  // ✅ Correct: it's "PropTypes", not "ProtoType"
+  
   blog: PropTypes.object.isRequired,
 };
 
