@@ -1,59 +1,55 @@
-{
-  "posts": [
+[
     {
-      "Id": "a3f1c9b2-7e44-4d9b-9f1a-2b6c8d0e4f11",
-      "cover": "A panoramic look at slow travel",
-      "title": "How to Travel Slowly and See More",
-      "author": "Maya R. Bennett",
-      "Img": "https://picsum.photos/seed/travel1/1200/800",
-      "posted": true,
-      "date": "2025-09-12",
-      "reading_time": "7 min read",
-      "hashtags": ["#travel", "#slowtravel", "#guide"]
+        "id": 1,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
     },
     {
-      "Id": "f57d2ea4-3b6e-4a9f-aa2d-9a0b4c1d5e22",
-      "cover": "Practical micro-habits for busy people",
-      "title": "Two Minutes a Day: Tiny Habits, Big Results",
-      "author": "Jordan K. Lee",
-      "Img": "https://picsum.photos/seed/habits2/1200/800",
-      "posted": false,
-      "date": "2025-10-01",
-      "reading_time": "4 min read",
-      "hashtags": ["#habits", "#productivity", "#wellbeing"]
+        "id": 2,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
     },
     {
-      "Id": "9b2e6c1f-1d8a-45b0-b7f3-6c4d2a8f3c33",
-      "cover": "An illustrated primer on urban gardening",
-      "title": "Window Boxes to Rooftop Farms: Urban Gardening 101",
-      "author": "Elena Suarez",
-      "Img": "https://picsum.photos/seed/garden3/1200/800",
-      "posted": true,
-      "date": "2025-08-18",
-      "reading_time": "9 min read",
-      "hashtags": ["#gardening", "#urbanfarming", "#diy"]
+        "id": 3,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
     },
     {
-      "Id": "2c8f7a90-5b3d-4f6a-8c2e-0d1a9b7e4f44",
-      "cover": "A deep dive into tiny ML models",
-      "title": "Tiny Models, Big Impact: ML for Edge Devices",
-      "author": "Priyanka Desai",
-      "Img": "https://picsum.photos/seed/ml4/1200/800",
-      "posted": true,
-      "date": "2025-07-05",
-      "reading_time": "11 min read",
-      "hashtags": ["#machinelearning", "#edgeai", "#tech"]
-    },
-    {
-      "Id": "d4e6b3f0-8c1a-4b2f-9e5a-7f0d3c2b6a55",
-      "cover": "Comfort food with a modern twist",
-      "title": "Seven Weeknight Dinners You’ll Make Forever",
-      "author": "Omar N. Khalid",
-      "Img": "https://picsum.photos/seed/food5/1200/800",
-      "posted": false,
-      "date": "2025-10-06",
-      "reading_time": "6 min read",
-      "hashtags": ["#food", "#weeknightmeals", "#recipes"]
+        "id": 4,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
+        "hashtags": [
+            "development",
+            "resources"
+        ]
     }
-  ]
-}
+]
