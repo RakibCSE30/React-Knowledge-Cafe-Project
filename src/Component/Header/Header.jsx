@@ -1,9 +1,12 @@
  
-
+import Profile from '../../assets/images/profile.png'
 const Header = () => {
     return (
-        <div>
-            <p className='text-2xl bg-green-500' >Knowledge cage</p>
+        <div className='flex justify-between mx-4 p-4 border-b-1 items-center'>
+            <p className='text-4xl font-bold' >Knowledge cage</p>
+            <img src={Profile} alt="" />
+
+
             
         </div>
     );
