@@ -1,10 +1,10 @@
  
 import PropTypes from 'prop-types';
 
-const Bookmarks = () => {
+const Bookmarks = ({bookmarks}) => {
     return (
         <div className='md:w-1/3'>
-            <p>Bookmarks:</p>
+            <p>Bookmarks:{bookmarks.length}</p>
         </div>
     );
 };
